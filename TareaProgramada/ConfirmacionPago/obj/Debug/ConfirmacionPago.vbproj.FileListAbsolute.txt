@@ -1,0 +1,28 @@
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\obj\Debug\ConfirmacionPago.vbproj.AssemblyReference.cache
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\obj\Debug\ConfirmacionPago.Resources.resources
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\obj\Debug\ConfirmacionPago.vbproj.GenerateResource.cache
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\obj\Debug\ConfirmacionPago.vbproj.CoreCompileInputs.cache
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\bin\Debug\ConfirmacionPago.exe.config
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\bin\Debug\ConfirmacionPago.exe
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\bin\Debug\ConfirmacionPago.pdb
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\bin\Debug\ConfirmacionPago.xml
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\obj\Debug\ConfirmacionPago.vbproj.CopyComplete
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\obj\Debug\ConfirmacionPago.exe
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\obj\Debug\ConfirmacionPago.xml
+C:\DSI Mauricio\Fenix\ConfirmacionPago Pruebas\ConfirmacionPago\obj\Debug\ConfirmacionPago.pdb
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\bin\Debug\ConfirmacionPago.exe.config
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\bin\Debug\ConfirmacionPago.exe
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\bin\Debug\ConfirmacionPago.pdb
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\bin\Debug\ConfirmacionPago.xml
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\obj\Debug\ConfirmacionPago.vbproj.AssemblyReference.cache
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\obj\Debug\ConfirmacionPago.Resources.resources
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\obj\Debug\ConfirmacionPago.vbproj.GenerateResource.cache
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\obj\Debug\ConfirmacionPago.vbproj.CoreCompileInputs.cache
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\obj\Debug\ConfirmacionPago.vbproj.CopyComplete
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\obj\Debug\ConfirmacionPago.exe
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\obj\Debug\ConfirmacionPago.xml
+C:\DSI Mauricio\Fenix\TareaProgramada\ConfirmacionPago\obj\Debug\ConfirmacionPago.pdb
